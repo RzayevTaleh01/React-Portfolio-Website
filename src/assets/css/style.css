@@ -1,0 +1,11 @@
+body{
+    /* background-color: #facf0f; */
+}
+
+button{
+    background-color: #0a192f;
+    padding: 9px 25px;
+    color: #fff;
+    border-radius: 8px;
+    border: none;
+}
